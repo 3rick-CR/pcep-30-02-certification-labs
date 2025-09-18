@@ -1,2 +1,7 @@
 # pcep-30-02-certification-labs
 Repositorio que contiene mis soluciones a los ejercicios de laboratorio del curso de certificación PCEP 30-02 diseñado por Python Institute. Incluye ejercicios prácticos sobre sintaxis, estructuras de control, funciones, tipos de datos y más
+
+Puedes abrir y ejecutar el notebook directamente en Google Colab haciendo clic en el botón:
+
+Lab 1 - Función `print()
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab%201%20funcion%20print/lab%201%20PCEP.ipynb)
