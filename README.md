@@ -12,5 +12,7 @@ Lab 1.2 - Función print + sep, end
 Lab 1.3 - Dando formato a la salida
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_1.3_dando_formato/lab_1.3_Dando_formato_a_la_salida.ipynb)
 
+Lab _2 _literales_de_Python (caracter escape)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_2 _literales_de_Python/lab_2_caracter_escape.ipynb)
 
 
