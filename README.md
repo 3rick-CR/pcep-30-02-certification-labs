@@ -7,4 +7,4 @@ Lab 1 - Función print()
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab%201%20funcion%20print/lab%201%20PCEP.ipynb)
 
 Lab 1.2 - Función print + sep, end
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_1.2_funcion_print/lab_1.2_funcion_print_sep_end.ipynb
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab%201%20funcion%20print/lab_1.2_funcion_print_sep_end.ipynb)
