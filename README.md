@@ -6,7 +6,7 @@ Puedes abrir y ejecutar el notebook directamente en Google Colab haciendo clic e
 Lab 1 - Función print()
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_1.0_funcion_print/lab_1_PCEP.ipynb)
 
-Lab 1.2 - Función print + sep, end
+Lab 1.1 - Función print + sep, end
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_1.1_funcion_print/lab_1.2_funcion_print_sep_end.ipynb.ipynb)
 
 Lab 1.3 - Dando formato a la salida
