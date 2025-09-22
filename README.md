@@ -15,3 +15,5 @@ Lab 1.2 - Dando formato a la salida
 Lab 2.0 literales de Python (caracter escape)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_2.0_literales_de_Python/Lab_2_caracter_escape.ipynb)
 
+Lab 2.1 variables
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_2.1_variables/lab_2.1_variables.ipynb)
