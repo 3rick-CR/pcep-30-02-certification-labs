@@ -20,3 +20,7 @@ Lab 2.1 variables
 
 lab 2.2 variables, un sencillo convertidor
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.2_variables_un_convertidor/lab_2.2_convertidor_millas_kilometros.ipynb).
+
+lab 2.3 operadores y expresiones
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.3_operadores_y_expresiones/lab_2.3.ipynb).
+
