@@ -24,3 +24,5 @@ lab 2.2 variables, un sencillo convertidor
 lab 2.3 operadores y expresiones
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.3_operadores_y_expresiones/lab_2.3.ipynb).
 
+lab 2.4 comentarios
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.4_comentarios/lab 2.4.ipynb).
