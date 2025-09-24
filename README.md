@@ -12,17 +12,21 @@ Lab 1.1 - Función print + sep, end
 Lab 1.2 - Dando formato a la salida
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_1.2_dando_formato/lab_1.2_Dando_formato_a_la_salida.ipynb)
 
-Lab 2.0 literales de Python (caracter escape)
+Lab 2.0 Literales de Python (caracter escape)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_2.0_literales_de_Python/Lab_2_caracter_escape.ipynb)
 
-Lab 2.1 variables
+Lab 2.1 Variables
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main//lab_2.1_variables/lab_2.1_variables.ipynb)
 
-lab 2.2 variables, un sencillo convertidor
+lab 2.2 Variables, un sencillo convertidor
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.2_variables_un_convertidor/lab_2.2_convertidor_millas_kilometros.ipynb).
 
-lab 2.3 operadores y expresiones
+lab 2.3 Operadores y expresiones
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.3_operadores_y_expresiones/lab_2.3.ipynb).
 
-lab 2.4 comentarios
+lab 2.4 Comentarios
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.4_comentarios/lab_2.4.ipynb).
+
+lab 2.5 Entradas y salidas simples
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.5_entradas_y_salidas_simples/lab_2.5.ipynb).
+
