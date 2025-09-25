@@ -33,4 +33,7 @@ lab 2.5 Entradas y salidas simples
 lab 2.6 Operadores y expresiones
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.6_operadores_y_expresiones/lab_2.6.ipynb).
 
+lab 2.7 Operadores y expresiones
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_2.7_operadores_y_expresiones/lab_2.7.ipynb).
+
 
