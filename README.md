@@ -39,5 +39,9 @@ lab 2.7 Operadores y expresiones
 lab 3.0 Preguntas y respuestas
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.0_preguntas_y_respuestas/lab3.0.ipynb).
 
+lab 3.1 Operadores de comparación y ejecución condicional
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.1_operadores_de_comparación_y_ejecución condicional/lab3.1.ipynb).
+
+
 
 
