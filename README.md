@@ -54,3 +54,5 @@ lab 3.4 Lo esencial del bucle while. (Adivina el numero secreto)
 lab 3.5 Fundamentos del bucle for: el conteo
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.5_fundamentos_del_bucle_for_el_conteo/lab3.5.ipynb).
 
+lab 3.6 La sentencia break - Atascado en un bucle
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.6_la_sentencia_break-Atascado_en_un_bucle/lab3.6.ipynb).
