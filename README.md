@@ -48,5 +48,8 @@ lab 3.2 Fundamentos de la sentencia if-else
 lab 3.3 Fundamentos de la sentencia if-else
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.3_fundamentos_de_la_sentencia_if-elif-else/lab3.3.ipynb).
 
+lab 3.4 Lo esencial del bucle while. (Adivina el numero secreto)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.4_lo_esencial_del_bucle_while-Adivina_el_numero_secreto/lab3.4.ipynb).
+
 
 
