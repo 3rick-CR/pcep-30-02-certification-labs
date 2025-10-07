@@ -57,5 +57,5 @@ lab 3.5 Fundamentos del bucle for: el conteo
 lab 3.6 La sentencia break - Atascado en un bucle
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.6_la_sentencia_break-Atascado_en_un_bucle/lab3.6.ipynb).
 
-lab 3.7 La sentencia continue - El Feo Devorador de Vocalese
+lab 3.7 La sentencia continue - El Feo Devorador de Vocales
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.7_la_sentencia_continue-El_Feo_Devorador_de_Vocales/lab3.7.ipynb).
