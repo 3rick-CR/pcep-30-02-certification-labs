@@ -59,3 +59,8 @@ lab 3.6 La sentencia break - Atascado en un bucle
 
 lab 3.7 La sentencia continue - El Feo Devorador de Vocales
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.7_la_sentencia_continue-El_Feo_Devorador_de_Vocales/lab3.7.ipynb).
+
+lab 3.8 La sentencia continue - El Bonito Devorador de Vocales
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.8_la_sentencia_continue-El_Bonito_Devorador_de_Vocales/lab3.8.ipynb).
+
+
