@@ -45,5 +45,8 @@ lab 3.1 Operadores de comparación y ejecución condicional
 lab 3.2 Fundamentos de la sentencia if-else
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.2_fundamentos_de_la_sentencia_if-else/lab3.2.ipynb).
 
+lab 3.3 Fundamentos de la sentencia if-else
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.3_fundamentos_de_la_sentencia_if-elif-else/lab3.3.ipynb).
+
 
 
