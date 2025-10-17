@@ -63,4 +63,6 @@ lab 3.7 La sentencia continue - El Feo Devorador de Vocales
 lab 3.8 La sentencia continue - El Bonito Devorador de Vocales
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.8_la_sentencia_continue-El_Bonito_Devorador_de_Vocales/lab3.8.ipynb).
 
+lab 3.9 Fundamentos del bucle while
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.9_fundamentos_del_bucle_while/lab3.9.ipynb).
 
