@@ -70,5 +70,5 @@ lab 4.0 Hipotesis de Collatz
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.0_hipotesis_de_Collatz/lab4.0.ipynb).
 
 lab 4.1 Lo básico de las listas
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.1_lo basico_de_las_listas/lab4.1.ipynb).
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.1_lo_basico_de_las_listas/lab4.1.ipynb).
 
