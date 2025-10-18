@@ -72,3 +72,5 @@ lab 4.0 Hipotesis de Collatz
 lab 4.1 Lo básico de las listas
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.1_lo_basico_de_las_listas/lab4.1.ipynb).
 
+lab 4.2 Lo básico de las listas - Los Beatles
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.2_lo_basico_de_las_listas_Los_Beatles/lab_4.2.ipynb).
