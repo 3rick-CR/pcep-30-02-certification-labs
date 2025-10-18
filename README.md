@@ -66,3 +66,6 @@ lab 3.8 La sentencia continue - El Bonito Devorador de Vocales
 lab 3.9 Fundamentos del bucle while
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_3.9_fundamentos_del_bucle_while/lab3.9.ipynb).
 
+lab 4.0 Hipotesis de Collatz
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.0_hipotesis_de_Collatz/lab4.0.ipynb).
+
