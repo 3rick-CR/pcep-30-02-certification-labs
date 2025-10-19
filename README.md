@@ -81,4 +81,8 @@ lab 4.3 Operando con listas - conceptos básicos
 lab 4.4 Un año bisiesto escribiendo tus propias funciones
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.4_Un_año_bisiesto_escribiendo_tus_propias_funciones/lab_4.4.ipynb).
 
+lab 4.5 ¿Cuántos días? - escribiendo y utilizando tus propias funciones
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.5_Cuántos_dias_(escribiendo_y_utilizando_tus_propias_funciones)/lab_4.5.ipynb).
+
+
 
