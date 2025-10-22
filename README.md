@@ -1,5 +1,9 @@
-# pcep-30-02-certification-labs
-Repositorio que contiene mis soluciones a los ejercicios de laboratorio del curso de certificación PCEP 30-02 diseñado por Python Institute. Incluye ejercicios prácticos sobre sintaxis, estructuras de control, funciones, tipos de datos y más
+# Ejercicios de Laboratorio - Certificación PCEP-30-02
+
+Repositorio que contiene mis soluciones a los ejercicios de laboratorio del curso de certificación **PCEP-30-02**, diseñado por el *Python Institute*.  
+Incluye ejercicios prácticos sobre sintaxis, estructuras de control, funciones, tipos de datos y más.
+
+> **Nota:** Las soluciones presentadas siguen las instrucciones y temas abordados en el curso, con el objetivo de servir como material de apoyo para quienes buscan obtener su certificación.
 
 Puedes abrir y ejecutar el notebook directamente en Google Colab haciendo clic en el botón:
 
