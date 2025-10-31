@@ -93,3 +93,6 @@ lab 4.6 Día del año escribiendo y utilizando tus propias funciones
 
 lab 4.7 Números primos: ¿Cómo encontrarlos?
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.7_Numeros_primos_Como_encontrarlos/lab_4.7.ipynb).
+
+lab 4.8 Convirtiendo el consumo de combustible
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.8_Convirtiendo_el_consumo_de_combustible/lab_4.8.ipynb).
