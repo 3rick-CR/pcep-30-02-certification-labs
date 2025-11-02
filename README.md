@@ -98,4 +98,4 @@ lab 4.8 Convirtiendo el consumo de combustible
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.8_Convirtiendo_el_consumo_de_combustible/lab_4.8.ipynb).
 
 lab 4.9 Proyecto TIC TAC TOE (juego gato)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.9_Proyecto_TIC_TAC_TOE-(juego gato)/lab_4.9.ipynb).
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/pcep-30-02-certification-labs/blob/main/lab_4.9_Proyecto_TIC_TAC_TOE-(juego_gato)/lab_4.9.ipynb).
